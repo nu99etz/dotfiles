@@ -15,7 +15,7 @@ gtk-4.0/
 ibus/
 menus/
 mimeapps.list
-monitor.xml
+monitors.xml
 nautilus/
 neofetch/
 plank/
